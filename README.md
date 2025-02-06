@@ -25,10 +25,13 @@ Tired of annoying ads? AdFriend transforms ad slots into **meaningful, distracti
     cd adfriend
   ```
 2. **Install dependencies**
-    `npm install`
+    ```npm install
+    ```
 3. **Build the extension**
-    `npm run build`
-2. **Load into Chrome**
+    ```
+    npm run build
+    ```
+4. **Load into Chrome**
     - Open Chrome and go to chrome://extensions/.
     - Enable Developer Mode (top-right corner).
     - Click `Load unpacked` and select the dist folder inside the project.
