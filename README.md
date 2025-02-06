@@ -24,22 +24,27 @@ Tired of annoying ads? AdFriend transforms ad slots into **meaningful, distracti
     git clone https://github.com/yourusername/adfriend.git
     cd adfriend
   ```
-2. **Install dependencies**
+2. **Clone the repository**  
+   ```
+    git clone https://github.com/yourusername/adfriend.git
+    cd adfriend
+  ```
+3. **Install dependencies**
     ```npm install
     ```
-3. **Build the extension**
+4. **Build the extension**
     ```
     npm run build
     ```
-4. **Load into Chrome**
+5. **Load into Chrome**
     - Open Chrome and go to chrome://extensions/.
     - Enable Developer Mode (top-right corner).
     - Click `Load unpacked` and select the dist folder inside the project.
 
 
 
-🏗 Project Structure
-```
+## 🏗 Project Structure
+
 📦 AdFriend
 ├── 📂 dist            # Compiled extension files (after build)
 ├── 📂 public          # Static assets (icons, manifest.json)
@@ -53,17 +58,17 @@ Tired of annoying ads? AdFriend transforms ad slots into **meaningful, distracti
 ├── 📄 index.html      # Popup HTML
 ├── 📄 package.json    # Project dependencies
 ├── 📄 README.md       # Project documentation
-```
-⚡ Tech Stack
+
+## ⚡ Tech Stack
 Frontend: React + TypeScript + Vite
 Storage: Chrome storage.sync API
 Extension API: Chrome Extensions API
 
 
-📜 License
+## 📜 License
 MIT License. Feel free to use and modify this project.
 
-📧 Contact
+## 📧 Contact
 📌 Author: Your Name
 📌 GitHub: Your GitHub
 📌 Email: your.email@example.com
