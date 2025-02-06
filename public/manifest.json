@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name": "AdFriend",
+    "version": "1.0.0",
+    "description": "Intercepts and replaces ads with positive content",
+    "action": {
+      "default_popup": "index.html",
+      "default_icon": {
+        "16": "./adFriend_icon16.png",
+        "48": "./adFriend_icon48.png",
+        "128": "./adfriend_icon128.png"
+      }
+    },
+    "permissions": []
+  }
