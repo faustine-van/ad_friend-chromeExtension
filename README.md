@@ -24,18 +24,10 @@ Tired of annoying ads? AdFriend transforms ad slots into **meaningful, distracti
     git clone https://github.com/yourusername/adfriend.git
     cd adfriend
   ```
-2. **Clone the repository**  
-   ```
-    git clone https://github.com/yourusername/adfriend.git
-    cd adfriend
-  ```
 3. **Install dependencies**
-    ```npm install
-    ```
+    `npm install`
 4. **Build the extension**
-    ```
-    npm run build
-    ```
+    `npm run build`
 5. **Load into Chrome**
     - Open Chrome and go to chrome://extensions/.
     - Enable Developer Mode (top-right corner).
