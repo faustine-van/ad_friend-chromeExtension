@@ -33,7 +33,7 @@ Tired of annoying ads? AdFriend transforms ad slots into **meaningful, distracti
     - Enable Developer Mode (top-right corner).
     - Click `Load unpacked` and select the dist folder inside the project.
 
-
+---
 
 ## 🏗 Project Structure
 
@@ -51,14 +51,19 @@ Tired of annoying ads? AdFriend transforms ad slots into **meaningful, distracti
 ├── 📄 package.json    # Project dependencies
 ├── 📄 README.md       # Project documentation
 
+---
+
 ## ⚡ Tech Stack
 Frontend: React + TypeScript + Vite
 Storage: Chrome storage.sync API
 Extension API: Chrome Extensions API
 
+---
 
 ## 📜 License
 MIT License. Feel free to use and modify this project.
+
+---
 
 ## 📧 Contact
 📌 Author: Your Name
